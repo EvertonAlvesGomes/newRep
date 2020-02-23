@@ -1,1 +1,1 @@
-Novo conteúdo adicionado ao arquivo b.txt
+mesmo código
